@@ -1,6 +1,4 @@
 import arcpy, os, fnmatch, pandas, numpy,csv
-
-#mammal_input=r"C:\Users\zyilun\Desktop\test_revise\mammal_input"
 preserve_input=r"D:\test_revise\preserve_input"
 output=r"D:\test_revise\output"
 
