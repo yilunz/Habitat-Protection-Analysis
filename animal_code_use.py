@@ -74,5 +74,5 @@ def select(animal_input, output):
 select(mammal_input,output)
 select(amphibian_input,output)
 select(bird_input,output)
-                    
+       
     
