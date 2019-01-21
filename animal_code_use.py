@@ -2,7 +2,6 @@ import arcpy, os, fnmatch, pandas, numpy, csv
 mammal_input=r"D:\test_revise\mammal_input"
 bird_input=r"D:\test_revise\bird_input"
 amphibian_input=r"D:\test_revise\amphibian_input"
-#preserve_area=r"C:\Users\zyilun\Desktop\test_revise\output\preserve_area"
 output=r"D:\test_revise\output"
 
 def select(animal_input, output):
@@ -72,6 +71,8 @@ def select(animal_input, output):
    
             
 
-select(mammal_input,output)   
+select(mammal_input,output)
+select(amphibian_input,output)
+select(bird_input,output)
                     
     
