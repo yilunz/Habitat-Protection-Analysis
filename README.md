@@ -5,4 +5,6 @@
 4. Intersect 1 and 2, output as CSV files (code 3)
 
 ## Project 2
-1. 
+1. Select preserve records based on build/promote time (code 4)
+2. Seperate each animal record for  (code 5)
+3. 
