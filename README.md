@@ -6,7 +6,7 @@
 
 ## Project 2
 1. Select preserve records based on build/promote time (code 4)
-2. Seperate each animal record for later use (code 5)
+2. Seperate each animal record for later use ([code 5](https://github.com/yilunz/Habitat-Protection-Analysis/blob/master/select_try.py))
 3. Merge animal records in case each species have separate records ([code 6](https://github.com/yilunz/Habitat-Protection-Analysis/blob/master/merge.py))
 4. Intersect animal records and preserve records ([code 7](https://github.com/yilunz/Habitat-Protection-Analysis/blob/master/intersect_2.py))
 5. Make figures ([code 8](https://github.com/yilunz/Habitat-Protection-Analysis/blob/master/figure.R))
