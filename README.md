@@ -6,3 +6,6 @@ I then intersect the output of animal data and the output of preserve data.
 
 In the second term, I only separated preserve data by their build/promote time. and intersect them with animal data.
 Make figures
+1. Group animal records based on the habitat size of each species
+2. Group preserve records based on the build/promote time
+3. 
