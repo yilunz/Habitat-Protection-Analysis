@@ -6,5 +6,7 @@
 
 ## Project 2
 1. Select preserve records based on build/promote time (code 4)
-2. Seperate each animal record for  (code 5)
-3. 
+2. Seperate each animal record for later use (code 5)
+3. Merge animal records in case each species have separate records (code 6)
+4. Intersect animal records and preserve records (code 7)
+5. Make figures (code 8)
