@@ -5,7 +5,7 @@
 4. Intersect 1 and 2, output as CSV files (code 3)
 
 ## Project 2
-1. Select preserve records based on build/promote time (code 4)
+1. Select preserve records based on build/promote time ([code 4](https://github.com/yilunz/Habitat-Protection-Analysis/blob/master/preserve_time.py))
 2. Seperate each animal record for later use ([code 5](https://github.com/yilunz/Habitat-Protection-Analysis/blob/master/select_try.py))
 3. Merge animal records in case each species have separate records ([code 6](https://github.com/yilunz/Habitat-Protection-Analysis/blob/master/merge.py))
 4. Intersect animal records and preserve records ([code 7](https://github.com/yilunz/Habitat-Protection-Analysis/blob/master/intersect_2.py))
